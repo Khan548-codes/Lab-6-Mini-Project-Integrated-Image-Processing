@@ -20,4 +20,4 @@ The complete process successfully incorporated steps for noise reduction, contra
 
 The final image looks cleaner and more detailed, which was the goal. However, to get the absolute best result, I probably need to spend more time carefully adjusting the parameters for each filter and detector.
 
-![images]()
+![images](https://github.com/Khan548-codes/Lab-6-Mini-Project-Integrated-Image-Processing/blob/main/images/sss1.png)
